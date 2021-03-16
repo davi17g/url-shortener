@@ -13,3 +13,5 @@ apidocs
 *.jar
 *.iml
 .idea/
+.dat
+*.dat
